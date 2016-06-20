@@ -1,0 +1,33 @@
+---
+title: Jamie Noon | Contact
+heading: Contact
+---
+<h2 id="page-heading"><%= current_page.data.heading %></h2>
+<div class="section group">
+  <section class="col one-third">
+    <h1>Questions?</h1>
+    <p>Have a project in mind? Just want to say hello? Fill out the form and let's connect!</p>
+    <p>
+    </p>
+  </section>
+  <aside class="col two-thirds">
+    <form id="contact" accept-charset="UTF-8" method="POST">
+      <fieldset>
+        <legend>Send a note...</legend>
+        <label for="name">Name</label>
+        <input class="name" name="name" type="text" placeholder="Your Name" required>
+        <label for="email">Email</label>
+        <input name="email" type="email" placeholder="Your Email" required>
+        <label for="message">Message</label>
+        <textarea name="message" required></textarea>
+        <input name="_gotcha" type="text" style="display:none">
+        <input type="hidden" name="_next" value="/index.html">
+        <input name="submit" type="submit" value="Submit">
+      </fieldset>
+    </form>
+    <script>
+      var contactform =  document.getElementById('contact');
+      contactform.setAttribute('action', '//formspree.io/' + 'jamielynnnoon' + '@' + 'gmail' + '.' + 'com');
+    </script>
+  </aside>
+</div>

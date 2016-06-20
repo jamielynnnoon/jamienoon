@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+  <head>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta charset="utf-8">
+    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+    <meta name="keywords" content="jamie noon, web design, web development, graphic design, web designer, web developer, freelance, ux">
+    <meta name="description" content="Jamie Noon, Web Designer and Developer">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title><%= current_page.data.title || "Jamie Noon" %></title>
+
+    <%= favicon_tag "favicon.png" %>
+    <%= stylesheet_link_tag "//fonts.googleapis.com/css?family=Lato:300,400,700" %>
+    <%= stylesheet_link_tag "//fonts.googleapis.com/css?family=Roboto:300,400,700" %>
+    <%= stylesheet_link_tag "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css" %>
+    <%= stylesheet_link_tag :site %>
+    <%= javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js" %>
+    <%= javascript_include_tag :all %>
+  </head>
+
+  <body class="<%= page_classes %>">
+
+    <header id="global-header" class="group">
+      <div class="wrap">
+        <h1>
+          <%= link_to image_tag("jamie-noon-logo.png", :alt => "Jamie Noon", :title => "Jamie Noon", :class => "logo"), "/index.html" %>
+        </h1>
+        <a class="toggle-nav" href="#">
+          <i class="fa fa-navicon"></i>
+        </a>
+        <nav class="menu">
+          <ul class="active">
+            <li><%= link_to "Home", "/index.html" %></li>
+            <li><%= link_to "About", "/about.html" %></li>
+            <li><%= link_to "Portfolio", "/portfolio.html" %></li>
+            <li><%= link_to "Résumé", "/resume.html" %></li>
+            <li><%= link_to "Contact", "/contact.html" %></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main role="main">
+      <%= yield %>
+    </main>
+
+    <footer>
+      <section>
+        <ul id="social">
+          <li>
+            <%= link_to "<i class='fa fa-behance-square fa-2x' aria-hidden='true'></i>".html_safe, "http://www.behance.com/jamienoon", {:title => "Behance", :target => "_blank"} %>
+          </li>
+          <li>
+            <%= link_to "<i class='fa fa-github-square fa-2x' aria-hidden='true'></i>".html_safe, "http://www.github.com/jamielynnnoon", {:title => "GitHub", :target => "_blank"} %>
+          </li>
+          <li>
+            <%= link_to "<i class='fa fa-linkedin-square fa-2x' aria-hidden='true'></i>".html_safe, "http://www.linkedin.com//in/jamielynnnoon", {:title => "LinkedIn", :target => "_blank"} %>
+          </li>
+        </ul>
+      </section>
+      <small>
+        Hand-coded with <i class="fa fa-heart" aria-hidden="true"></i> by <%= link_to "Jamie Noon", "/index.html" %><br>
+        Copyright &copy; <%= Time.now.year %> Jamie Noon. All rights reserved.
+      </small>
+    </footer>
+
+  </body>
+</html>

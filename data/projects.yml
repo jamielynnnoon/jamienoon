@@ -1,0 +1,71 @@
+item:
+- title: "Jamie Lynn Noon"
+  category: "Web"
+  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
+  description: "Responsive music and blog web application utilizing social media features (Facebook Comments, Twitter Embedded Timelines, iTunes Affiliate Linking)"
+  image:
+    - "jamie-lynn-noon-mobile.png"
+    - "jamie-lynn-noon-tablet.png"
+    - "jamie-lynn-noon-desktop.png"
+  url: jamie-lynn-noon
+  website: http://www.jamielynnnoon.com
+  thumb: "jamie-lynn-noon-desktop.png"
+- title: "Notary Depot"
+  category: "Web"
+  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
+  description: "Responsive redesign of a national notary signing agent directory—usability tests were conducted and analyzed to ensure cross-device and browser compatibility"
+  image:
+    - "notary-depot-mobile.png"
+    - "notary-depot-tablet.png"
+    - "notary-depot-desktop.png"
+  url: notary-depot
+  website: http://www.notarydepot.com
+  thumb: "notary-depot-desktop.png"
+- title: "Noon's Tunes"
+  category: "Web"
+  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
+  description: "Responsive music licensing web application portal"
+  image:
+    - "noons-tunes-mobile.png"
+    - "noons-tunes-tablet.png"
+    - "noons-tunes-desktop.png"
+  url: noons-tunes
+  website: http://www.noonstunes.com
+  thumb: "noons-tunes-desktop.png"
+- title: "'Til Ya Make It"
+  category: "Web"
+  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
+  description: "Story-sharing web application for a cause-related organization, where users are enabled to share their stories and comment on stories posted by others—features include social sharing and Disqus Comment System"
+  image:
+    - "til-ya-make-it-mobile.png"
+    - "til-ya-make-it-tablet.png"
+    - "til-ya-make-it-desktop.png"
+  url: til-ya-make-it
+  website: http://www.tilyamakeit.com
+  thumb: "til-ya-make-it-desktop.png"
+- title: "ASU GIT Brochure"
+  category: "Print Design"
+  technologies: "Adobe Creative Cloud, Adobe InDesign CC, Adobe Photoshop CC"
+  description: "Print brochure design for Arizona State University's Graphic Information Technology (GIT) program"
+  image:
+    - "asu-git-brochure-front.png"
+    - "asu-git-brochure-inner.png"
+    - "asu-git-brochure-back.png"
+  url: asu-git-brochure
+  thumb: "asu-git-brochure-front.png"
+- title: "Typographic Poster"
+  category: "Graphic Design"
+  technologies: "Adobe Creative Cloud, Adobe Illustrator CC"
+  description: "Typographic poster created for the quote, \"Wherever you go, go with all your heart\", by Confucius"
+  image:
+    - "typographic-poster.png"
+  url: typographic-poster
+  thumb: "typographic-poster.png"
+- title: "Animals on Broadway"
+  category: "Graphic Design"
+  technologies: "Adobe Creative Cloud, Adobe Illustrator CC"
+  description: "Graphic design illustration and logo creation for an animal welfare charity event"
+  image:
+    - "animals-on-broadway.png"
+  url: animals-on-broadway
+  thumb: "animals-on-broadway.png"

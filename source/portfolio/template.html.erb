@@ -1,0 +1,24 @@
+---
+title: Jamie Noon | Portfolio
+---
+<% p = locals[:item] %>
+<h2 id="page-heading"><%= p[:title] %></h2>
+<div class="group">
+  <div class="col one-half">
+    <p><%= p[:description] %></p>
+    <ul>
+      <li><span>Category:</span> <%= p[:category] %></li>
+      <li><span>Technologies:</span> <%= p[:technologies] %></li>
+      <% if p[:website] %>
+      <li><span>Website:</span> <%= link_to p[:website], p[:website], :target => "_blank" %></li>
+      <% else %>
+      <% end %>
+    </ul>
+    <p class="back"><%= link_to "&larr; Back to all", "/portfolio.html" %></p>
+  </div>
+  <div class="col one-half">
+    <% p.image.each do |image| %>
+      <%= image_tag image, :class => "project-img" %>
+    <% end %>
+  </div>
+</div>
