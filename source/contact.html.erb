@@ -15,13 +15,13 @@ heading: Contact
       <fieldset>
         <legend>Send a note...</legend>
         <label for="name">Name</label>
-        <input class="name" name="name" type="text" placeholder="Your Name" required>
+        <input id="name" name="name" type="text" placeholder="Your Name" required>
         <label for="email">Email</label>
-        <input name="email" type="email" placeholder="Your Email" required>
-        <label for="message">Message</label>
+        <input id="email" name="email" type="email" placeholder="Your Email" required>
+        <label id="message" for="message">Message</label>
         <textarea name="message" required></textarea>
         <input name="_gotcha" type="text" style="display:none">
-        <input type="hidden" name="_next" value="/index.html">
+        <input name="_next" type="hidden" value="/index.html">
         <input name="submit" type="submit" value="Submit">
       </fieldset>
     </form>
