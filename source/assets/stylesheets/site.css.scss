@@ -91,12 +91,11 @@ header#global-header {
   background: -moz-linear-gradient(left,$purple,$blue);
   background: -ms-linear-gradient(left,$purple,$blue);
   padding: 1% 0;
-  h1 {
+  .logo {
     float: left;
-    line-height: 0;
     width: 68%;
     img {
-      width: 1.5em;
+      width: 2.8em;
     }
   }
 }
@@ -149,29 +148,29 @@ footer {
   text-align: center;
 }
 
-  // #web {
-  //   -webkit-animation-name: intro;
-  //   -webkit-animation-duration: 1s;
-  // }
-  // #design {
-  //   -webkit-animation-name: intro;
-  //   -webkit-animation-duration: 3s;
-  // }
-  // #branding {
-  //   -webkit-animation-name: intro;
-  //   -webkit-animation-duration: 5s;
-  // }
+  #web {
+    -webkit-animation-name: intro;
+    -webkit-animation-duration: 1s;
+  }
+  #design {
+    -webkit-animation-name: intro;
+    -webkit-animation-duration: 3s;
+  }
+  #branding {
+    -webkit-animation-name: intro;
+    -webkit-animation-duration: 5s;
+  }
 
-  // @-webkit-keyframes intro {
-  //   from {
-  //     -webkit-transform: scale(0);
-  //     opacity: 0;
-  //   }
-  //   to {
-  //     -webkit-transform: scale(1);
-  //     opacity: 1;
-  //   }
-  // }
+  @-webkit-keyframes intro {
+    from {
+      -webkit-transform: scale(0);
+      opacity: 0;
+    }
+    to {
+      -webkit-transform: scale(1);
+      opacity: 1;
+    }
+  }
 
 .intro {
   text-align: center;
@@ -322,10 +321,10 @@ p.back {
 @media (min-width: 48em) {
 
   header#global-header {
-    h1 {
+    .logo {
       width: 32%;
       img {
-        width: 2em;
+        width: 3.2em;
       }
     }
   }
