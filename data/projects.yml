@@ -1,15 +1,4 @@
 item:
-- title: "Jamie Lynn Noon"
-  category: "Web"
-  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
-  description: "Responsive music and blog web application utilizing social media features (Facebook Comments, Twitter Embedded Timelines, iTunes Affiliate Linking)"
-  image:
-    - "jamie-lynn-noon-mobile.png"
-    - "jamie-lynn-noon-tablet.png"
-    - "jamie-lynn-noon-desktop.png"
-  url: jamie-lynn-noon
-  website: http://www.jamielynnnoon.com
-  thumb: "jamie-lynn-noon-desktop.png"
 - title: "Notary Depot"
   category: "Web"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
@@ -21,17 +10,6 @@ item:
   url: notary-depot
   website: http://www.notarydepot.com
   thumb: "notary-depot-desktop.png"
-- title: "Noon's Tunes"
-  category: "Web"
-  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
-  description: "Responsive music licensing web application portal"
-  image:
-    - "noons-tunes-mobile.png"
-    - "noons-tunes-tablet.png"
-    - "noons-tunes-desktop.png"
-  url: noons-tunes
-  website: http://www.noonstunes.com
-  thumb: "noons-tunes-desktop.png"
 - title: "'Til Ya Make It"
   category: "Web"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
@@ -43,6 +21,28 @@ item:
   url: til-ya-make-it
   website: http://www.tilyamakeit.com
   thumb: "til-ya-make-it-desktop.png"
+- title: "Jamie Lynn Noon"
+  category: "Web"
+  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
+  description: "Responsive music and blog web application utilizing social media features (Facebook Comments, Twitter Embedded Timelines, iTunes Affiliate Linking)"
+  image:
+    - "jamie-lynn-noon-mobile.png"
+    - "jamie-lynn-noon-tablet.png"
+    - "jamie-lynn-noon-desktop.png"
+  url: jamie-lynn-noon
+  website: http://www.jamielynnnoon.com
+  thumb: "jamie-lynn-noon-desktop.png"
+- title: "Noon's Tunes"
+  category: "Web"
+  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
+  description: "Responsive music licensing web application portal"
+  image:
+    - "noons-tunes-mobile.png"
+    - "noons-tunes-tablet.png"
+    - "noons-tunes-desktop.png"
+  url: noons-tunes
+  website: http://www.noonstunes.com
+  thumb: "noons-tunes-desktop.png"
 - title: "ASU GIT Brochure"
   category: "Print Design"
   technologies: "Adobe Creative Cloud, Adobe InDesign CC, Adobe Photoshop CC"
