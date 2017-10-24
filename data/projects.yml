@@ -43,6 +43,17 @@ item:
   url: noons-tunes
   website: http://www.noonstunes.com
   thumb: "noons-tunes-desktop.png"
+- title: "Noon Financial"
+  category: "Web"
+  technologies: "Middleman, HTML5, CSS3, SASS, JavaScript, jQuery, Git, YAML"
+  description: "Static site developed for a boutique financial services company using Middleman and designed to display responsively across multiple screens and devices."
+  image:
+    - "noon-financial-mobile.png"
+    - "noon-financial-tablet.png"
+    - "noon-financial-desktop.png"
+  url: noon-financial
+  website: http://www.noonfinancial.com
+  thumb: "noon-financial-desktop.png"
 - title: "ASU GIT Brochure"
   category: "Print Design"
   technologies: "Adobe Creative Cloud, Adobe InDesign CC, Adobe Photoshop CC"
