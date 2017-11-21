@@ -193,10 +193,10 @@ h2#page-heading {
 }
 
 .portfolio figure {
-  background: $blue;
+  background: $white;
   border: 0.1em solid $grey;
   box-shadow: 0 0.5em 1em rgba($black,0.2);
-  max-height: 18em;
+  height: 16em;
   overflow: hidden;
   position: relative;
   img {
@@ -214,7 +214,7 @@ h2#page-heading {
       font: $defaultfont;
     }
     a {
-      color: $white;
+      color: $blue;
     }
   }
   &:hover {
