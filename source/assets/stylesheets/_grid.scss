@@ -1,5 +1,24 @@
-/* Mobile First Styles */
+/* CSS Grid Layout */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2rem;
+  grid-auto-rows: minmax(16rem, auto);
+}
 
+.grid-item {
+  grid-column-start: auto;
+  grid-row-start: auto;
+}
+
+@media (max-width: 50em) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* Mobile First Styles */
 .section {
   clear: both;
   padding: 0;

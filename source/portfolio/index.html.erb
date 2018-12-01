@@ -3,9 +3,9 @@ title: Jamie Noon | Portfolio
 heading: Portfolio
 ---
 <h2 id="page-heading"><%= current_page.data.heading %></h2>
-  <section class="group">
+  <section class="grid-container">
     <% data.projects.item.each do |item| %>
-    <div class="col one-third">
+    <div class="grid-item">
       <figure>
         <%= link_to image_tag(item.thumb), item %>
         <figcaption>
