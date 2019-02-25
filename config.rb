@@ -17,7 +17,7 @@ page '/*.txt', layout: false
 #  which_fake_page: "Rendering a fake page with a local variable" }
 
 data.projects.item.each do |item|
-  proxy "/portfolio/#{item.url}", "/portfolio/template.html", :locals => { :item => item }, :ignore => true
+  proxy "/portfolio/#{item.url}/index.html", "/portfolio/template.html", :locals => { :item => item }, :ignore => true
 end
 
 # General configuration
