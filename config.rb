@@ -25,7 +25,7 @@ end
 # Pretty URLs - http://middlemanapp.com/pretty-urls/
 activate :directory_indexes
 
-page "/portfolio/*", :directory_index => false
+page "/portfolio/*", :directory_index => true
 page "/portfolio/*", :layout => "layout"
 
 # Reload the browser automatically whenever files change
