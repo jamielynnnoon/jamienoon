@@ -80,3 +80,13 @@ item:
     - "animals-on-broadway.png"
   url: animals-on-broadway
   thumb: "animals-on-broadway.png"
+- title: "Simpson Strong-Tie"
+  category: "Email Development"
+  technologies: "HTML5, CSS3, Pardot (A/B testing, Variable Tags)"
+  description: "Responsive redesign and development of Simpson Strong-Tie's product marketing email templates"
+  image:
+    - "simpson-strong-tie-email-mobile.png"
+    - "simpson-strong-tie-email-tablet.png"
+    - "simpson-strong-tie-email-desktop.png"
+  url: simpson-strong-tie
+  thumb: "simpson-strong-tie-email-desktop.png"
