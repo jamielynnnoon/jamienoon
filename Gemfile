@@ -3,6 +3,6 @@
 source 'https://rubygems.org'
 
 # Middleman Gems
-gem 'middleman', '>= 4.2.1'
+gem 'middleman', '>= 4.2'
 gem 'middleman-livereload'
 gem 'middleman-compass', '>= 4.0.1'

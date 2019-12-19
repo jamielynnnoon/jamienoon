@@ -11,6 +11,18 @@
   grid-row-start: auto;
 }
 
+.grid-container-50 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2rem;
+  grid-auto-rows: minmax(16rem, auto);
+}
+
+.grid-item-50 {
+  grid-column-start: auto;
+  grid-row-start: auto;
+}
+
 @media (max-width: 50em) {
   .grid-container {
     grid-template-columns: 1fr;
