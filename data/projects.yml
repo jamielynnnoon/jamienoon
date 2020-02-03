@@ -34,7 +34,7 @@ item:
   thumb: "jamie-lynn-noon-desktop.png"
 - title: "ASU GIT Brochure"
   category: "Print Design"
-  technologies: "Adobe Creative Cloud, Adobe InDesign CC, Adobe Photoshop CC"
+  technologies: "Adobe InDesign, Adobe Photoshop"
   description: "Print brochure design for Arizona State University's Graphic Information Technology (GIT) program"
   image:
     - "asu-git-brochure-front.png"
@@ -76,7 +76,7 @@ item:
   thumb: "noon-financial-desktop.png"
 - title: "Typographic Poster"
   category: "Graphic Design"
-  technologies: "Adobe Creative Cloud, Adobe Illustrator CC"
+  technologies: "Adobe Illustrator"
   description: "Typographic poster created for the quote, \"Wherever you go, go with all your heart\", by Confucius"
   image:
     - "typographic-poster.png"
@@ -93,7 +93,7 @@ item:
   thumb: "danville-pediatric-dentistry.png"
 - title: "Animals on Broadway"
   category: "Graphic Design"
-  technologies: "Adobe Creative Cloud, Adobe Illustrator CC"
+  technologies: "Adobe Illustrator"
   description: "Graphic design illustration and logo creation for an animal welfare charity event"
   image:
     - "animals-on-broadway.png"
