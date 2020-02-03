@@ -82,6 +82,15 @@ item:
     - "typographic-poster.png"
   url: typographic-poster
   thumb: "typographic-poster.png"
+- title: "Danville Pediatric Dentistry"
+  category: "Graphic Design"
+  technologies: "Adobe Illustrator, Adobe InDesign"
+  description: "Brochure design for a children's dentistry emphasizing their branding, web presence, and color pallette"
+  image:
+    - "danville-pediatric-dentistry.png"
+    - "danville-pediatric-dentistry-back.png"
+  url: danville-pediatric-dentistry
+  thumb: "danville-pediatric-dentistry.png"
 - title: "Animals on Broadway"
   category: "Graphic Design"
   technologies: "Adobe Creative Cloud, Adobe Illustrator CC"
