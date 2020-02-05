@@ -44,7 +44,7 @@ item:
   thumb: "asu-git-brochure-front.png"
 - title: "Simpson Strong-Tie"
   category: "Email Development"
-  technologies: "HTML5, CSS3, Pardot (A/B testing, Variable Tags)"
+  technologies: "HTML, CSS, Pardot (A/B testing, Variable Tags)"
   description: "Responsive redesign and development of Simpson Strong-Tie's product marketing email templates"
   image:
     - "simpson-strong-tie-email-mobile.png"
