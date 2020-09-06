@@ -125,7 +125,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport (~> 5.2.4.3)
+  activesupport (= 5.2.4.3)
   middleman (>= 4.2)
   middleman-compass (>= 4.0.1)
   middleman-livereload
