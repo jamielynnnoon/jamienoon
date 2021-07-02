@@ -10,6 +10,26 @@ item:
   url: notary-depot
   website: https://www.notarydepot.com
   thumb: "notary-depot-desktop.png"
+- title: "Simpson Strong-Tie"
+  category: "Email Development"
+  technologies: "HTML, CSS, Pardot (A/B testing, Variable Tags)"
+  description: "Responsive redesign and development of Simpson Strong-Tie's product marketing email templates"
+  image:
+    - "simpson-strong-tie-email-mobile.png"
+    - "simpson-strong-tie-email-tablet.png"
+    - "simpson-strong-tie-email-desktop.png"
+  url: simpson-strong-tie
+  thumb: "simpson-strong-tie-email-desktop.png"
+- title: "Arizona State University"
+  category: "Print Design"
+  technologies: "Adobe InDesign, Adobe Photoshop"
+  description: "Print brochure design for Arizona State University's Graphic Information Technology (GIT) program"
+  image:
+    - "asu-git-brochure-front.png"
+    - "asu-git-brochure-inner.png"
+    - "asu-git-brochure-back.png"
+  url: asu-git-brochure
+  thumb: "asu-git-brochure-front.png"
 - title: "'Til Ya Make It"
   category: "Web"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
@@ -32,26 +52,6 @@ item:
   url: jamie-lynn-noon
   website: https://www.jamielynnnoon.com
   thumb: "jamie-lynn-noon-desktop.png"
-- title: "ASU GIT Brochure"
-  category: "Print Design"
-  technologies: "Adobe InDesign, Adobe Photoshop"
-  description: "Print brochure design for Arizona State University's Graphic Information Technology (GIT) program"
-  image:
-    - "asu-git-brochure-front.png"
-    - "asu-git-brochure-inner.png"
-    - "asu-git-brochure-back.png"
-  url: asu-git-brochure
-  thumb: "asu-git-brochure-front.png"
-- title: "Simpson Strong-Tie"
-  category: "Email Development"
-  technologies: "HTML, CSS, Pardot (A/B testing, Variable Tags)"
-  description: "Responsive redesign and development of Simpson Strong-Tie's product marketing email templates"
-  image:
-    - "simpson-strong-tie-email-mobile.png"
-    - "simpson-strong-tie-email-tablet.png"
-    - "simpson-strong-tie-email-desktop.png"
-  url: simpson-strong-tie
-  thumb: "simpson-strong-tie-email-desktop.png"
 - title: "Noon's Tunes"
   category: "Web"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
