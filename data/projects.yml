@@ -1,6 +1,16 @@
 item:
+- title: "Simpson Strong-Tie"
+  category: "Design and Development"
+  technologies: "HTML, CSS, Pardot (A/B testing, Variable Tags)"
+  description: "Responsive redesign and development of Simpson Strong-Tie's product marketing email templates"
+  image:
+    - "simpson-strong-tie-email-mobile.png"
+    - "simpson-strong-tie-email-tablet.png"
+    - "simpson-strong-tie-email-desktop.png"
+  url: simpson-strong-tie
+  thumb: "simpson-strong-tie-email-desktop.png"
 - title: "Notary Depot"
-  category: "Web"
+  category: "Design and Development"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
   description: "Responsive redesign of a national notary signing agent directory—usability tests were conducted and analyzed to ensure cross-device and browser compatibility"
   image:
@@ -10,18 +20,8 @@ item:
   url: notary-depot
   website: https://www.notarydepot.com
   thumb: "notary-depot-desktop.png"
-- title: "Simpson Strong-Tie"
-  category: "Email Development"
-  technologies: "HTML, CSS, Pardot (A/B testing, Variable Tags)"
-  description: "Responsive redesign and development of Simpson Strong-Tie's product marketing email templates"
-  image:
-    - "simpson-strong-tie-email-mobile.png"
-    - "simpson-strong-tie-email-tablet.png"
-    - "simpson-strong-tie-email-desktop.png"
-  url: simpson-strong-tie
-  thumb: "simpson-strong-tie-email-desktop.png"
 - title: "Arizona State University"
-  category: "Print Design"
+  category: "Graphic Design"
   technologies: "Adobe InDesign, Adobe Photoshop"
   description: "Print brochure design for Arizona State University's Graphic Information Technology (GIT) program"
   image:
@@ -30,8 +30,28 @@ item:
     - "asu-git-brochure-back.png"
   url: asu-git-brochure
   thumb: "asu-git-brochure-front.png"
+- title: "Noon Financial"
+  category: "Design and Development"
+  technologies: "Middleman, HTML5, CSS3, SASS, JavaScript, jQuery, Git, YAML"
+  description: "Static site developed for a boutique financial services company using Middleman and designed to display responsively across multiple screens and devices."
+  image:
+    - "noon-financial-mobile.png"
+    - "noon-financial-tablet.png"
+    - "noon-financial-desktop.png"
+  url: noon-financial
+  website: https://www.noonfinancial.com
+  thumb: "noon-financial-desktop.png"
+- title: "Danville Pediatric Dentistry"
+  category: "Graphic Design"
+  technologies: "Adobe Illustrator, Adobe InDesign"
+  description: "Brochure design for a children's dentistry emphasizing their branding, web presence, and color pallette"
+  image:
+    - "danville-pediatric-dentistry.png"
+    - "danville-pediatric-dentistry-back.png"
+  url: danville-pediatric-dentistry
+  thumb: "danville-pediatric-dentistry.png"
 - title: "'Til Ya Make It"
-  category: "Web"
+  category: "Design and Development"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
   description: "Story-sharing web application for a cause-related organization, where users are enabled to share their stories and comment on stories posted by others—features include social sharing and Disqus Comment System"
   image:
@@ -42,7 +62,7 @@ item:
   website: https://www.tilyamakeit.com
   thumb: "til-ya-make-it-desktop.png"
 - title: "Jamie Lynn Noon"
-  category: "Web"
+  category: "Design and Development"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
   description: "Responsive music and blog web application utilizing social media features (Facebook Comments, Twitter Embedded Timelines, iTunes Affiliate Linking)"
   image:
@@ -53,7 +73,7 @@ item:
   website: https://www.jamielynnnoon.com
   thumb: "jamie-lynn-noon-desktop.png"
 - title: "Noon's Tunes"
-  category: "Web"
+  category: "Design and Development"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
   description: "Responsive music licensing web application portal"
   image:
@@ -63,17 +83,6 @@ item:
   url: noons-tunes
   website: https://www.noonstunes.com
   thumb: "noons-tunes-desktop.png"
-- title: "Noon Financial"
-  category: "Web"
-  technologies: "Middleman, HTML5, CSS3, SASS, JavaScript, jQuery, Git, YAML"
-  description: "Static site developed for a boutique financial services company using Middleman and designed to display responsively across multiple screens and devices."
-  image:
-    - "noon-financial-mobile.png"
-    - "noon-financial-tablet.png"
-    - "noon-financial-desktop.png"
-  url: noon-financial
-  website: https://www.noonfinancial.com
-  thumb: "noon-financial-desktop.png"
 - title: "Typographic Poster"
   category: "Graphic Design"
   technologies: "Adobe Illustrator"
@@ -82,15 +91,6 @@ item:
     - "typographic-poster.png"
   url: typographic-poster
   thumb: "typographic-poster.png"
-- title: "Danville Pediatric Dentistry"
-  category: "Graphic Design"
-  technologies: "Adobe Illustrator, Adobe InDesign"
-  description: "Brochure design for a children's dentistry emphasizing their branding, web presence, and color pallette"
-  image:
-    - "danville-pediatric-dentistry.png"
-    - "danville-pediatric-dentistry-back.png"
-  url: danville-pediatric-dentistry
-  thumb: "danville-pediatric-dentistry.png"
 - title: "Animals on Broadway"
   category: "Graphic Design"
   technologies: "Adobe Illustrator"
