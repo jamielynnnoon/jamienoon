@@ -19,7 +19,7 @@ body {
 
 main {
   clear: both;
-  width: 80%;
+  width: 90%;
   margin: 1rem auto;
 }
 
@@ -320,6 +320,10 @@ p.back {
 
 /* Tablet and Desktop */
 @media (min-width: 48em) {
+
+  main {
+    width: 80%;
+  }
 
   .portfolio figure {
     height: auto;
