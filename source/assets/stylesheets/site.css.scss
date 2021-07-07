@@ -19,8 +19,8 @@ body {
 
 main {
   clear: both;
-  width: 90%;
-  margin: 1% auto;
+  width: 80%;
+  margin: 1rem auto;
 }
 
 ul li {
@@ -102,7 +102,7 @@ header#global-header {
 
 .wrap {
   margin: 0 auto;
-  width: 90%;
+  width: 80%;
 }
 
 #contact {
@@ -138,9 +138,9 @@ header#global-header {
 footer {
   border-top: 0.1rem solid rgba($black,0.1);
   margin: 0 auto;
-  padding: 2% 0;
+  padding: 2rem 0;
   text-align: center;
-  width: 90%;
+  width: 80%;
 }
 
 .action {
@@ -185,9 +185,9 @@ footer {
 h2#page-heading {
   border-bottom: 0.1rem solid rgba($black,0.1);
   color: $purple;
-  font: 700 210%/1.6 "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 0 0 1% 0;
-  padding: 1% 0;
+  font: 700 2.2rem/1.6 "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0 0 2rem 0;
+  padding: 2rem 0;
   text-align: center;
   text-transform: uppercase;
 }
@@ -196,7 +196,7 @@ h2#page-heading {
   background: $white;
   border: 0.05rem solid $grey;
   box-shadow: 0 0.5em 1em rgba($black,0.2);
-  height: 16em;
+  height: 35.6rem;
   overflow: hidden;
   position: relative;
   img {
@@ -235,14 +235,14 @@ h2#page-heading {
 
 .toggle-nav {
   color: $white;
-  font-size: 200%;
+  font-size: 2rem;
   float: right;
 }
 
 nav.menu {
   a {
     color: $white;
-    font-size: 150%;
+    font-size: 1.6rem;
   }
   ul.active {
     display: none;

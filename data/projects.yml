@@ -5,100 +5,87 @@ item:
   description: "Building upon the brand's style guide, I led all aspects of visual design and development for web, email, and digital marketing collateral with a focus on the user experience. I redesigned and developed responsive marketing email templates resulting in a ~50% increase in click-through rate (CTR)."
   image:
     - "simpson-strong-tie-email-mobile.png"
-    - "simpson-strong-tie-email-tablet.png"
     - "simpson-strong-tie-email-desktop.png"
   image_full:
     - "simpson-strong-tie-web-01.png"
     - "simpson-strong-tie-web-02.png"
   url: simpson-strong-tie
-  thumb: "simpson-strong-tie-email-desktop.png"
+  thumb: "simpson-strong-tie-web-01.png"
 - title: "Notary Depot"
   category: "Design and Development"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
-  description: "Responsive redesign of a national notary signing agent directory—usability tests were conducted and analyzed to ensure cross-device and browser compatibility"
+  description: "Responsive redesign of a national notary signing agent directory—a targeted usability study was designed in order to improve the user experience and increase conversion rates."
   image:
     - "notary-depot-mobile.png"
-    - "notary-depot-tablet.png"
+  image_full:
     - "notary-depot-desktop.png"
   url: notary-depot
   website: https://www.notarydepot.com
   thumb: "notary-depot-desktop.png"
-- title: "Arizona State University"
-  category: "Graphic Design"
-  technologies: "Adobe InDesign, Adobe Photoshop"
-  description: "Print brochure design for Arizona State University's Graphic Information Technology (GIT) program"
-  image:
-    - "asu-git-brochure-front.png"
-    - "asu-git-brochure-inner.png"
-    - "asu-git-brochure-back.png"
-  url: asu-git-brochure
-  thumb: "asu-git-brochure-front.png"
 - title: "Noon Financial"
   category: "Design and Development"
   technologies: "Middleman, HTML5, CSS3, SASS, JavaScript, jQuery, Git, YAML"
   description: "Static site developed for a boutique financial services company using Middleman and designed to display responsively across multiple screens and devices."
   image:
     - "noon-financial-mobile.png"
-    - "noon-financial-tablet.png"
+  image_full:
     - "noon-financial-desktop.png"
   url: noon-financial
   website: https://www.noonfinancial.com
   thumb: "noon-financial-desktop.png"
-- title: "Danville Pediatric Dentistry"
-  category: "Graphic Design"
-  technologies: "Adobe Illustrator, Adobe InDesign"
-  description: "Brochure design for a children's dentistry emphasizing their branding, web presence, and color pallette"
+- title: "Jamie Lynn Noon"
+  category: "Design and Development"
+  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
+  description: "Responsive music and blog web application designed and developed with a custom CSS/SCSS grid system."
   image:
-    - "danville-pediatric-dentistry.png"
-    - "danville-pediatric-dentistry-back.png"
-  url: danville-pediatric-dentistry
-  thumb: "danville-pediatric-dentistry.png"
+    - "jamie-lynn-noon-mobile.png"
+  image_full:
+    - "jamie-lynn-noon-desktop.png"
+  url: jamie-lynn-noon
+  website: https://www.jamielynnnoon.com
+  thumb: "jamie-lynn-noon-desktop.png"
 - title: "'Til Ya Make It"
   category: "Design and Development"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
   description: "Story-sharing web application for a cause-related organization, where users are enabled to share their stories and comment on stories posted by others—features include social sharing and Disqus Comment System"
   image:
     - "til-ya-make-it-mobile.png"
-    - "til-ya-make-it-tablet.png"
+  image_full:
     - "til-ya-make-it-desktop.png"
   url: til-ya-make-it
   website: https://www.tilyamakeit.com
   thumb: "til-ya-make-it-desktop.png"
-- title: "Jamie Lynn Noon"
-  category: "Design and Development"
-  technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
-  description: "Responsive music and blog web application utilizing social media features (Facebook Comments, Twitter Embedded Timelines, iTunes Affiliate Linking)"
-  image:
-    - "jamie-lynn-noon-mobile.png"
-    - "jamie-lynn-noon-tablet.png"
-    - "jamie-lynn-noon-desktop.png"
-  url: jamie-lynn-noon
-  website: https://www.jamielynnnoon.com
-  thumb: "jamie-lynn-noon-desktop.png"
 - title: "Noon's Tunes"
   category: "Design and Development"
   technologies: "Ruby on Rails, HTML5, CSS3, SASS, JavaScript, jQuery, Git"
   description: "Responsive music licensing web application portal"
   image:
     - "noons-tunes-mobile.png"
-    - "noons-tunes-tablet.png"
+  image_full:
     - "noons-tunes-desktop.png"
   url: noons-tunes
   website: https://www.noonstunes.com
   thumb: "noons-tunes-desktop.png"
-- title: "Typographic Poster"
+- title: "Arizona State University"
   category: "Graphic Design"
-  technologies: "Adobe Illustrator"
-  description: "Typographic poster created for the quote, \"Wherever you go, go with all your heart\", by Confucius"
+  technologies: "Adobe InDesign, Adobe Photoshop"
+  description: "Print brochure design for Arizona State University's Graphic Information Technology (GIT) program"
   image:
-    - "typographic-poster.png"
-  url: typographic-poster
-  thumb: "typographic-poster.png"
-- title: "Animals on Broadway"
+    - "asu-git-brochure-front.png"
+    - "asu-git-brochure-back.png"
+  image_full:
+    - "asu-git-brochure.png"
+    - "asu-git-brochure-inner.png"
+  url: asu-git-brochure
+  thumb: "asu-git-brochure-front.png"
+- title: "Danville Pediatric Dentistry"
   category: "Graphic Design"
-  technologies: "Adobe Illustrator"
-  description: "Graphic design illustration and logo creation for an animal welfare charity event"
+  technologies: "Adobe Illustrator, Adobe InDesign"
+  description: "Brochure design for a children's dentistry emphasizing their branding, web presence, and color pallette"
   image:
-    - "animals-on-broadway.png"
-  url: animals-on-broadway
-  thumb: "animals-on-broadway.png"
+    - "danville-pediatric-dentistry.png"
+  image_full:
+    - "danville-pediatric-dentistry-outer.png"
+    - "danville-pediatric-dentistry-inner.png"
+  url: danville-pediatric-dentistry
+  thumb: "danville-pediatric-dentistry-outer.png"
