@@ -24,7 +24,7 @@
 }
 
 @media (max-width: 50em) {
-  .grid-container {
+  .grid-container, .grid-container-50 {
     grid-template-columns: 1fr;
   }
 }

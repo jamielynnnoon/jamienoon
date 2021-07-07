@@ -77,7 +77,7 @@ item:
     - "asu-git-brochure.png"
     - "asu-git-brochure-inner.png"
   url: asu-git-brochure
-  thumb: "asu-git-brochure-front.png"
+  thumb: "asu-git-brochure.png"
 - title: "Danville Pediatric Dentistry"
   category: "Graphic Design"
   technologies: "Adobe Illustrator, Adobe InDesign"
@@ -88,4 +88,4 @@ item:
     - "danville-pediatric-dentistry-outer.png"
     - "danville-pediatric-dentistry-inner.png"
   url: danville-pediatric-dentistry
-  thumb: "danville-pediatric-dentistry-outer.png"
+  thumb: "danville-pediatric-dentistry.png"

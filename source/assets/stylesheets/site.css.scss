@@ -196,7 +196,7 @@ h2#page-heading {
   background: $white;
   border: 0.05rem solid $grey;
   box-shadow: 0 0.5em 1em rgba($black,0.2);
-  height: 35.6rem;
+  height: auto;
   overflow: hidden;
   position: relative;
   img {
@@ -319,6 +319,10 @@ p.back {
 
 /* Tablet and Desktop */
 @media (min-width: 48em) {
+
+  .portfolio figure {
+    height: auto;
+  }
 
   header#global-header {
     .logo {
