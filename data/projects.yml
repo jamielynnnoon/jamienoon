@@ -1,12 +1,15 @@
 item:
 - title: "Simpson Strong-Tie"
   category: "Design and Development"
-  technologies: "HTML, CSS, Pardot (A/B testing, Variable Tags)"
-  description: "Responsive redesign and development of Simpson Strong-Tie's product marketing email templates"
+  technologies: "HTML, CSS, Pardot (A/B testing, Variable Tags), Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator"
+  description: "Building upon the brand's style guide, I led all aspects of visual design and development for web, email, and digital marketing collateral with a focus on the user experience. I redesigned and developed responsive marketing email templates resulting in a ~50% increase in click-through rate (CTR)."
   image:
     - "simpson-strong-tie-email-mobile.png"
     - "simpson-strong-tie-email-tablet.png"
     - "simpson-strong-tie-email-desktop.png"
+  image_full:
+    - "simpson-strong-tie-web-01.png"
+    - "simpson-strong-tie-web-02.png"
   url: simpson-strong-tie
   thumb: "simpson-strong-tie-email-desktop.png"
 - title: "Notary Depot"

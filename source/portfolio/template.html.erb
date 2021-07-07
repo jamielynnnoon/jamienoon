@@ -21,4 +21,9 @@ title: Jamie Noon | Portfolio
       <%= image_tag image, :class => "project-img" %>
     <% end %>
   </div>
+  <div>
+    <% p.image_full.each do |image_full| %>
+      <%= image_tag image_full, :class => "project-img" %>
+    <% end %>
+  </div>
 </div>
