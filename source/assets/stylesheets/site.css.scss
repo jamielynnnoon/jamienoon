@@ -90,12 +90,13 @@ header#global-header {
   background: -webkit-linear-gradient(left,$purple,$blue);
   background: -moz-linear-gradient(left,$purple,$blue);
   background: -ms-linear-gradient(left,$purple,$blue);
-  padding: 1% 0;
+  padding: 1rem 0;
   .logo {
     float: left;
     width: 68%;
     img {
       width: 2.8em;
+      vertical-align: middle;
     }
   }
 }
@@ -250,8 +251,8 @@ nav.menu {
   ul {
     clear: both;
     li {
-      border-bottom: 0.1em solid rgba($white,0.2);
-      padding: 0 0 2% 0;
+      // border-bottom: 0.1em solid rgba($white,0.2);
+      // padding: 0 0 2% 0;
       text-align: center;
     }
   }
@@ -347,6 +348,7 @@ p.back {
       display: inline-block;
     }
     ul li {
+      line-height: 2;
       display: inline-block;
       margin: 0 0 0 2em;
       &:first-child {
