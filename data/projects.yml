@@ -9,6 +9,7 @@ item:
   image_full:
     - "simpson-strong-tie-web-01.png"
     - "simpson-strong-tie-web-02.png"
+    - "simpson-strong-tie-web-app-icons.png"
   url: simpson-strong-tie
   thumb: "simpson-strong-tie-web-01.png"
 - title: "Notary Depot"
